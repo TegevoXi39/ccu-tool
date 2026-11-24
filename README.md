@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: ccu-tool, claude-code, anthropic, llm, ai-tools, cli, developer-tools, productivity, claude, open-source, windows, automation, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+claude claude-code anthropic llm ai-tools cli developer-tools productivity ccu-tool claude-session-rotator claude-code-unlimited windows portable prebuilt x64 free download
+related: claude, claude-code, anthropic, llm, ai-tools, cli, developer-tools, productivity

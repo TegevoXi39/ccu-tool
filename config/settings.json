@@ -1,0 +1,23 @@
+{
+  "module": "ccu-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "watcher": {
+      "enabled": true
+    },
+    "rotator": {
+      "enabled": true
+    },
+    "store": {
+      "enabled": true
+    },
+    "settings": {
+      "enabled": true
+    }
+  }
+}
